@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kuis1</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">count up</string>
+    <string name="button_initial_value">27</string>
+    <string name="toast_message">Neta Ayunda Widyasari</string>
+    <string name="count_down">count down</string>
+</resources>
